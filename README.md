@@ -1,6 +1,5 @@
 # 🧮 Tabuada Completa em Rust
 
-<img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-logo-white.svg" alt="Rust Logo White" width="180" />
 
 <img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the Crab" width="180" />
 
