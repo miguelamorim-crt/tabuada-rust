@@ -1,5 +1,7 @@
 # 🧮 Tabuada Completa em Rust
 
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="150" />
+
 Este projeto exibe as tabuadas de **1 a 10**, utilizando **dois loops `for`**.  
 O objetivo é praticar lógica, repetição e organização de código em Rust — ideal para iniciantes.
 
